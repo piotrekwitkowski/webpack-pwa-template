@@ -8,6 +8,7 @@ Clone the repo and run
 ```bash
 npm install
 ```
+to download all node dependencies.
 
 ## Development
 ```bash
