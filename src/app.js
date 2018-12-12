@@ -1,1 +1,1 @@
-// document.body.textContent = "Hi!"
+console.log('Hi from app.js!')
